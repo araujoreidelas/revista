@@ -44,3 +44,8 @@ body{
     object-fit: cover;
     margin: auto;
 }
+
+.flibook ,.page small{
+    font-size: 14px;
+    margin-bottom: 10px;
+}
